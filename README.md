@@ -1,9 +1,10 @@
 # CS-3210-Project3
 Functional Programming Assignment 3 PPL
 ------------------------------
-SCL Database
-Emac Text editor
-Eclipse
+## Tools recommended by professor
+- SCL Database
+- Emac Text editor
+- Eclipse
 -----------------------------------------
 # (Defun Set-member(set item))
 {
